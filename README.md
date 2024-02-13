@@ -1,0 +1,4 @@
+The repository representing all my project i developed during my Python Internship under CodSoft. I developed three projects under this internship. A brief for all is provided below:-
+1.  To-Do list: A To-Do List Application is a useful project that helps users manage and oragnise their tasks efficiently. This project aims to be a GUI Based application using Python and Tkinter , allowing users to create, update, and track their to do lists.
+2.  Calulator: A GUI Based simple calculator with basic arithmetic operations, using Python and Tkinter, prompting the user to input two numbers and an operation choice.
+3.  Contact Book: A GUI based application made using Python and Tkinter helps user to store name, phone number, email, and address. Also one can search, update or delete the contact as per their choice.
